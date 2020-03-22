@@ -1,7 +1,20 @@
 .panel {
-    width: 30em;
+    width: 20em;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 3em;
+    flex-direction: column;
+}
+.pages {
+    display: flex;
+    color: white;
+}
+.page {
+    padding-right: 1em;
+    cursor: pointer;
+}
+.active{
+    color: #ffff00;
 }

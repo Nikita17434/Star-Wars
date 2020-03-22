@@ -1,0 +1,16 @@
+.card{
+    width: 18em;
+    height: 9em;
+    border: 1px solid #ffff00;
+    margin: 1em;
+    padding: 0.5em;
+}
+.text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.span {
+    font-weight: bold;
+    padding-right: 0.2em;
+}

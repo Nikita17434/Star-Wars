@@ -1,4 +1,6 @@
 .list{
     padding: 5em;
     color: white;
+    display: flex;
+    flex-wrap: wrap;
 }
